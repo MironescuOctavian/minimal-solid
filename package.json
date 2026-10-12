@@ -3,7 +3,8 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "dev": "vite"
+    "dev": "vp dev",
+    "build": "vp build"
   },
   "dependencies": {
     "@cloudflare/vite-plugin": "1.63.1",
