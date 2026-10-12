@@ -1,0 +1,10 @@
+saveExact: true
+autoDedupe: true
+lockfile:
+  includeResolutionSettings: true
+minimumReleaseAgeStrict: true
+minimumReleaseAgeExclude:
+  - "@rimelight/*"
+allowBuilds:
+  esbuild: true
+  workerd: true

@@ -1,0 +1,5 @@
+{
+  "extends": "@rimelight/config/tsconfig/solid",
+  "include": ["**/*", "*.cloudflare/types/**/*"],
+  "exclude": ["dist"]
+}
